@@ -1,3 +1,21 @@
 body{
     background: #BDBDBD;
 }
+.tagline {
+    background-image: url(https://media.cnewyork.net/resize/uploads/2020/12/new-york-city.jpg?format=auto) ;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+.tagline h1 {
+    background-color:rgba(255, 255, 255, 0.5);
+    padding-bottom: 0.8rem;
+}
+.tagline p {
+    background-color:rgba(255, 255, 255, 0.5);
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
